@@ -1,0 +1,9 @@
+@media(max-width:990px) {
+    #image-container {
+        display: block;
+    }
+
+    #image-container img {
+        width: 100px;
+    }
+}
